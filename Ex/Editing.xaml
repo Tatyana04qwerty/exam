@@ -1,0 +1,40 @@
+﻿<Window x:Class="Ex.Editing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ex"
+        mc:Ignorable="d"
+        Title="Editing" Height="550" Width="500">
+    <Grid>
+        <Label Content="Редактирование" HorizontalAlignment="Center" VerticalAlignment="Top" Height="30" Width="100" Margin="10" />
+        <Canvas Width="400" Margin="50,42,50,160">
+            <Label Height="30" Width="70" Content="Фамилия" Margin="20 10 0 0" />
+            <TextBox x:Name="tbsurname" Height="30" Width="150" Margin="220 10 0 0" Background="#F5F5F5" Text="{Binding Path=surname}"/>
+            <Label Height="30" Width="70" Content="Имя" Margin="20 50 0 0" />
+            <TextBox x:Name="tbname" Height="30" Width="150" Margin="220 50 0 0" Background="#F5F5F5" Text="{Binding Path=name}"/>
+            <Label Height="30" Width="70" Content="Отчество" Margin="20 90 0 0" />
+            <TextBox x:Name="tbpatronymic" Height="30" Width="150" Margin="220 90 0 0" Background="#F5F5F5" Text="{Binding Path=patronymic}"/>
+            <Label Height="30" Width="150" Content="Марка автомобиля" Margin="20 130 0 0"/>
+            <TextBox x:Name="tbbrandcar" Height="30" Width="150" Margin="220 130 0 0" Background="#F5F5F5" Text="{Binding Path=brandcar}"/>
+            <Label Height="30" Width="70" Content="Цвет автомобиля" Margin="20 170 0 0" />
+            <TextBox x:Name="tbcolourcar" Height="30" Width="150" Margin="220 170 0 0" Background="#F5F5F5" Text="{Binding Path=colourcar}"/>
+            <Label Height="30" Width="100" Content="Страховая стоимость" Margin="20 210 0 0" />
+            <TextBox x:Name="tbinsurance" Height="30" Width="150" Margin="220 210 0 0" Background="#F5F5F5" Text="{Binding Path=insurance}"/>
+            <Label Height="30" Width="180" Content="Стоимость 1 дня проката" Margin="20 250 0 0"/>
+            <TextBox x:Name="tboneday" Height="30" Width="150" Margin="220 250 0 0" Background="#F5F5F5" Text="{Binding Path=oneday}"/>
+            <Label Height="30" Width="80" Content="Дата начала проката" Margin="20 290 0 0" />
+            <DatePicker x:Name="dpbeginning" Height="30" Width="150" Margin="220 290 0 0" Text="{Binding Path=beginning}"/>
+            <Label Height="30" Width="80" Content="Дата окончания проката" Margin="20 330 0 0" />
+            <DatePicker x:Name="dpend" Height="30" Width="150" Margin="220 330 0 0" Text="{Binding Path=end}"/>
+        </Canvas>
+        <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="25">
+            <Button Name="Save" Content="Изменить" Height="30" Width="100" Margin="5" Click="Save_Click"/>
+            <Button Name="Cancel" Content="Отменить" Height="30" Width="100" Margin="5" Click="Cancel_Click"/>
+        </WrapPanel>
+        <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="70">
+            <Button Name="Count" Content="Рассчитать стоимость поездки" Height="30" Width="200" Margin="5" Click="Count_Click"/>
+            <Label Name="Counted" Height="30" Width="100" Margin="5"/>
+        </WrapPanel>
+    </Grid>
+</Window>

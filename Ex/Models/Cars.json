@@ -1,0 +1,112 @@
+[
+ {
+  "surname": "Галкина",
+  "name": "Анна",
+  "patronymic": "Михайловна",
+  "brandcar": "Porsche",
+  "colourcar": "асфальт",
+  "insurance": "5000000.00",
+  "oneday": "20000.00",
+  "beginning": "15.05.2020",
+  "end": "25.05.2020"
+ },
+ {
+  "surname": "Лебедев",
+  "name": "Никита",
+  "patronymic": "Семенович",
+  "brandcar": "Audi",
+  "colourcar": "белый",
+  "insurance": "2500000.00",
+  "oneday": "10000.00",
+  "beginning": "25.04.2021",
+  "end": "02.05.2021"
+ },
+ {
+  "surname": "Никонова",
+  "name": "Софья",
+  "patronymic": "Марковна",
+  "brandcar": "BMW",
+  "colourcar": "бриз",
+  "insurance": "3250000.00",
+  "oneday": "15000.00",
+  "beginning": "10.03.2022",
+  "end": "20.03.2022"
+ },
+ {
+  "surname": "Боброва",
+  "name": "Ксения",
+  "patronymic": "Григорьевна",
+  "brandcar": "Chevrolet",
+  "colourcar": "вишня",
+  "insurance": "1500000.00",
+  "oneday": "8000.00",
+  "beginning": "11.05.2022",
+  "end": "20.05.2022"
+ },
+ {
+  "surname": "Козлова",
+  "name": "Полина",
+  "patronymic": "Андреевна",
+  "brandcar": "Citroen",
+  "colourcar": "жемчуг",
+  "insurance": "1300000.00",
+  "oneday": "6000.00",
+  "beginning": "10.01.2021",
+  "end": "13.01.2021"
+ },
+ {
+  "surname": "Жуков",
+  "name": "Кирилл",
+  "patronymic": "Алексеевич",
+  "brandcar": "Daewoo",
+  "colourcar": "гранат",
+  "insurance": "1300000.00",
+  "oneday": "7000.00",
+  "beginning": "13.04.2022",
+  "end": "18.04.2022"
+ },
+ {
+  "surname": "Окулов",
+  "name": "Богдан",
+  "patronymic": "Елисеевич",
+  "brandcar": "Audi",
+  "colourcar": "баклажан",
+  "insurance": "2300000.00",
+  "oneday": "12000.00",
+  "beginning": "21.02.2021",
+  "end": "24.02.2021"
+ },
+ {
+  "surname": "Марков",
+  "name": "Роман",
+  "patronymic": "Станиславович",
+  "brandcar": "Ford",
+  "colourcar": "аметист",
+  "insurance": "1540000.00",
+  "oneday": "8500.00",
+  "beginning": "14.03.2022",
+  "end": "25.03.2022"
+ },
+ {
+  "surname": "Рыжова",
+  "name": "Дарья",
+  "patronymic": "Ивановна",
+  "brandcar": "Haval",
+  "colourcar": "алмаз",
+  "insurance": "1650000.00",
+  "oneday": "8500.00",
+  "beginning": "03.03.2021",
+  "end": "12.03.2021"
+ },
+ {
+  "surname": "Иванов",
+  "name": "Евгений",
+  "patronymic": "Михайлович",
+  "brandcar": "Fiat",
+  "colourcar": "графит",
+  "insurance": "1750000.00",
+  "oneday": "6500.00",
+  "beginning": "14.05.2022",
+  "end": "20.05.2022"
+ }
+]

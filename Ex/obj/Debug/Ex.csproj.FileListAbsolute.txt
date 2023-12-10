@@ -1,0 +1,44 @@
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Ex.csproj.AssemblyReference.cache
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Adding.g.cs
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Editing.g.cs
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\App.g.cs
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Ex_MarkupCompile.cache
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Ex_MarkupCompile.lref
+C:\Users\user\Documents\4 курс\Ex\Ex\bin\Debug\Ex.exe.config
+C:\Users\user\Documents\4 курс\Ex\Ex\bin\Debug\Ex.exe
+C:\Users\user\Documents\4 курс\Ex\Ex\bin\Debug\Ex.pdb
+C:\Users\user\Documents\4 курс\Ex\Ex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\4 курс\Ex\Ex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Adding.baml
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Editing.baml
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Ex.g.resources
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Ex.Properties.Resources.resources
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Ex.csproj.GenerateResource.cache
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Ex.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Ex.csproj.CopyComplete
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Ex.exe
+C:\Users\user\Documents\4 курс\Ex\Ex\obj\Debug\Ex.pdb
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Ex.csproj.AssemblyReference.cache
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Adding.g.cs
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Editing.g.cs
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\App.g.cs
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Ex_MarkupCompile.cache
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Ex_MarkupCompile.lref
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Ex.exe
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Ex.pdb
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\bin\Debug\Ex.exe.config
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\bin\Debug\Ex.exe
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\bin\Debug\Ex.pdb
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Adding.baml
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Editing.baml
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Ex.g.resources
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Ex.Properties.Resources.resources
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Ex.csproj.GenerateResource.cache
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Ex.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\4 курс\ПМ01 Экзамен\Ex\Ex\obj\Debug\Ex.csproj.CopyComplete
